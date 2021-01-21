@@ -27,10 +27,11 @@ html, body, div, span, applet, object, iframe,
     margin: 0;
     top: 50%;
     left: 50%;
-    color: goldenrod;
+    color: black;
     width: 319px;
-    border: 3px solid rgb(25, 199, 230);
+    border: 3px black;
     padding: 15px;
+    background-color: #0D3838;
 
 }
 
@@ -49,10 +50,10 @@ h1 {
     font-family: arial;
     font-size: 40px;
     margin: 4px;
-    color: royalblue;
+    color: gray;
     border: 1px lightblue;
     padding: 5px;
-    background-color: lightcoral;
+    background-color: black;
     width: 1900px;
 }
 
@@ -72,12 +73,15 @@ p {
     justify-content: space-evenly;
     text-align: center;
     margin-bottom: 1%;
-    color: red;
+    color: black;
     font-family: 'Press Start 2P', cursive;
     font-size: 18px;
     font-weight: bolder;
     text-emphasis: shadow 20px;
     text-shadow:  #f2955e;
+    border: 2px darkgreen;
+    padding: 10px;
+    background-color: #0D3838;
 }
 
 .oldCards {
@@ -130,7 +134,7 @@ p {
 
 .divRight {
     display: block;
-    background: yellow;
+    background: #0D3838;
     border-radius: 3px;
         padding-right: 3px;
     line-height: 1.5;
