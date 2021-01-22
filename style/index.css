@@ -111,6 +111,7 @@ p {
     border: 3px black;
     padding: 15px;
     background-color: #0D3838;
+    word-spacing: 30px;
 }
 
 .header {
