@@ -103,7 +103,16 @@ p {
 .vader {
     display: flex;
     justify-content: auto;
-    color: green;
+    font-family: arial;
+    font-size: 15px;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    color: black;
+    width: 319px;
+    border: 3px black;
+    padding: 15px;
+    background-color: #0D3838;
 }
 
 .header {
