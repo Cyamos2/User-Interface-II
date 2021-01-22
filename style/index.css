@@ -101,8 +101,6 @@ p {
 }
 
 .vader {
-    display: flex;
-    justify-content: center;
     font-family: arial;
     font-size: 15px;
     margin: 0;
@@ -126,7 +124,7 @@ p {
     margin-right: 6.5;
 }
 
-.vader a {
+.vader {
     border-radius: 8px;
     display: flex;
     margin-left: auto;
