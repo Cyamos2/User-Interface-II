@@ -113,6 +113,20 @@ p {
     background-color: #0D3838;
 }
 
+@media(max-width: 500px) {
+    .vader {
+        background: green;
+}
+
+.vader header nav {
+    display: flex;
+    flex-direction: column;
+}
+
+&nbsp;.vader header nav a {
+    margin-bottom: 20px;
+}
+}
 .header {
     display: flex;
     justify-content: space-evenly;
