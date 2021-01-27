@@ -145,10 +145,4 @@ p {
     border-radius: 3px;
         padding-right: 3px;
     line-height: 1.5;
-    &nbsp; padding: 20px 1.25%;
-    flex-direction: column;
-}
-
-&nbsp;.divRight {
-    margin-bottom: 20px;
 }
