@@ -1,1 +1,148 @@
 /* Add CSS styling here */
+
+html, body, div, span, applet, object, iframe,
+ h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+ a, abbr, acronym, address, big, cite, code,
+ del, dfn, em, img, ins, kbd, q, s, samp,
+ small, strike, strong, sub, sup, tt, var,
+ b, u, i, center,
+ dl, dt, dd, ol, ul, li,
+ fieldset, form, label, legend,
+ table, caption, tbody, tfoot, thead, tr, th, td,
+ article, aside, canvas, details, embed, 
+ figure, figcaption, footer, header, hgroup, 
+ menu, nav, output, ruby, section, summary,
+ time, mark, audio, video {
+ 	margin: 0;
+ 	padding: 0;
+ 	border: 0;
+ 	font-size: 100%;
+ 	font: inherit;
+ 	vertical-align: baseline;
+ }
+
+ .menu {
+    font-family: arial;
+    font-size: 15px;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    color: black;
+    width: 319px;
+    border: 3px black;
+    padding: 15px;
+    background-color: #0D3838;
+
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    color: blueviolet;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 0%;
+    background-image: url(https://i.redd.it/0huktsyhsgm41.jpg);
+
+}
+
+h1 {
+    font-family: arial;
+    font-size: 40px;
+    margin: 4px;
+    color: gray;
+    border: 1px lightblue;
+    padding: 5px;
+    background-color: black;
+    width: 1900px;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 35px;
+    margin: 4px;
+    color: purple;
+    border: 2px solid blue;
+    padding: 10px;
+    background-color: gray;
+
+}
+
+p {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 1%;
+    color: black;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 18px;
+    font-weight: bolder;
+    text-emphasis: shadow 20px;
+    text-shadow:  #f2955e;
+    border: 2px darkgreen;
+    padding: 10px;
+    background-color: #0D3838;
+}
+
+.oldCards {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 20%;
+}
+
+.newCards {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 20%;
+}
+
+.vader {
+    font-family: arial;
+    font-size: 15px;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    color: black;
+    width: 319px;
+    border: 3px black;
+    padding: 15px;
+    background-color: #0D3838;
+}
+
+.header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 6.5;
+}
+
+.vader {
+    border-radius: 8px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.meme1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.divRight {
+    display: block;
+    background: #0D3838;
+    border-radius: 3px;
+        padding-right: 3px;
+    line-height: 1.5;
+}
