@@ -113,6 +113,13 @@ p {
     background-color: #0D3838;
 }
 
+@media only screen and (max-width: 600px) {
+    .vader {
+        background-color: green;
+        width: 60%;
+    }
+}
+
 .header {
     display: flex;
     justify-content: space-evenly;
@@ -146,3 +153,4 @@ p {
         padding-right: 3px;
     line-height: 1.5;
 }
+
