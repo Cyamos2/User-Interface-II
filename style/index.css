@@ -111,7 +111,6 @@ p {
     border: 3px black;
     padding: 15px;
     background-color: #0D3838;
-    word-spacing: 30px;
 }
 
 .header {
@@ -146,4 +145,10 @@ p {
     border-radius: 3px;
         padding-right: 3px;
     line-height: 1.5;
+    &nbsp; padding: 20px 1.25%;
+    flex-direction: column;
+}
+
+&nbsp;.divRight {
+    margin-bottom: 20px;
 }
