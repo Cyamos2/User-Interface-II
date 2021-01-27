@@ -123,10 +123,10 @@ p {
     flex-direction: column;
 }
 
-&nbsp;.vader header nav a {
+nbsp .vader header nav a {
     margin-bottom: 20px;
 }
-}
+
 .header {
     display: flex;
     justify-content: space-evenly;
