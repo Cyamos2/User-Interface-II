@@ -100,7 +100,7 @@ p {
     width: 20%;
 }
 
-section {
+.vader {
     font-family: arial;
     font-size: 15px;
     margin: 0;
@@ -111,13 +111,6 @@ section {
     border: 3px black;
     padding: 15px;
     background-color: #0D3838;
-}
-
-@media only screen and (max-width: 600px) {
-    section {
-        background-color: rgba(21, 226, 49, 0.959);
-        width: 40%;
-    }
 }
 
 .header {
